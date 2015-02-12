@@ -28,3 +28,12 @@ console.log(Nascar.name); // 'Gordon'
 
 
 // Default parameters
+
+
+// Rest parameters
+
+
+// fat arrow
+
+
+
