@@ -1,7 +1,7 @@
 ## ES6 today!
 _Duty now for the future_
 
-You've probably heard about some of the new, more advanced features of ES6, but there are also many other features that may not be mind blowing, but will make most JavaScript developers' day-to-day easier and more pleasant. In this talk we will discuss these more accessible features and we'll use the tool 6to5 to transpile our ES6 code into very readable ES5 and evaluate the output. Whether you're looking to take advantage of template strings or you're tired of the module format debate (http://youtu.be/sKOC5H7UV_U) or perhaps you just want some sexy destructuring -- ES6 will make you a power coder today.
+You've probably heard about all the new, more advanced features of ES6 that totally blow minds. But ES6 also provides many other improvements that, while they may not invoke a certain Tim and Eric gif, they will actually make your day-to-day JS dev work easier and more pleasant. In this talk we will discuss these more accessible features. Whether you're looking to take advantage of template strings or you're tired of the module format debate (http://youtu.be/sKOC5H7UV_U) or you like your arrows fat or perhaps you just want some sexy destructuring -- ES6 will make you a power coder today.
 
 
 
