@@ -6,6 +6,9 @@ var View;
 var generateId = function() {};
 
 
+// let and const 
+
+
 // Method definitions
 var someView = View.extend({
   init($view) {
