@@ -6,7 +6,7 @@ var View;
 var generateId = function() {};
 
 
-// let and const 
+// let and const
 
 
 // Method definitions
