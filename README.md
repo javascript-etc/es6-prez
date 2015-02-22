@@ -1,6 +1,6 @@
 es6-prez
 ========
 
-An ES6 Presentation for the rest of us
+An ES6 presentation for the rest of us
 
 
